@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"csb.obj" 
+TO "smallcar" 
+RAMSIZE(256) 
